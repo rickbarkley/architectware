@@ -153,11 +153,25 @@ p.copyright {
 }
 
 #digital_portfolio {
-	margin-top: 30px;
+	margin-top: 50px;
 }
 
 #conversions {
-	margin-top: 30px;
+	margin-top: 50px;
+}
+
+#success {
+	margin-top: 50px;
+}
+
+#about {
+	margin-top: 50px;
+}
+
+#design_visions{
+  background: #000;
+  border-radius: 5px;
+
 }
 
 /*#contact_form {
