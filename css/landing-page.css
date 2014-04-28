@@ -171,7 +171,11 @@ p.copyright {
 #design_visions{
   background: #000;
   border-radius: 5px;
+}
 
+#arch-images {
+	margin-bottom: 30px;
+	margin-top: 30px;
 }
 
 /*#contact_form {
